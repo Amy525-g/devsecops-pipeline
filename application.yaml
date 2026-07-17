@@ -12,7 +12,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/TUUSUARIO/devsecops-pipeline.git
+    repoURL: https://github.com/Amy525-g/devsecops-pipeline.git
     targetRevision: HEAD
     path: .
 
